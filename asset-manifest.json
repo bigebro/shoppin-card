@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shoppin-card/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/shoppin-card/static/js/main.c0adb08c.chunk.js",
-    "main.js.map": "/shoppin-card/static/js/main.c0adb08c.chunk.js.map",
-    "runtime-main.js": "/shoppin-card/static/js/runtime-main.84702731.js",
-    "runtime-main.js.map": "/shoppin-card/static/js/runtime-main.84702731.js.map",
-    "static/js/2.6371d4be.chunk.js": "/shoppin-card/static/js/2.6371d4be.chunk.js",
-    "static/js/2.6371d4be.chunk.js.map": "/shoppin-card/static/js/2.6371d4be.chunk.js.map",
-    "static/js/3.ffacf983.chunk.js": "/shoppin-card/static/js/3.ffacf983.chunk.js",
-    "static/js/3.ffacf983.chunk.js.map": "/shoppin-card/static/js/3.ffacf983.chunk.js.map",
+    "main.css": "/shoppin-card/static/css/main.b809e878.chunk.css",
+    "main.js": "/shoppin-card/static/js/main.8498213f.chunk.js",
+    "main.js.map": "/shoppin-card/static/js/main.8498213f.chunk.js.map",
+    "runtime-main.js": "/shoppin-card/static/js/runtime-main.69122c33.js",
+    "runtime-main.js.map": "/shoppin-card/static/js/runtime-main.69122c33.js.map",
+    "static/js/2.ec9e2155.chunk.js": "/shoppin-card/static/js/2.ec9e2155.chunk.js",
+    "static/js/2.ec9e2155.chunk.js.map": "/shoppin-card/static/js/2.ec9e2155.chunk.js.map",
     "index.html": "/shoppin-card/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/shoppin-card/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.6371d4be.chunk.js.LICENSE.txt": "/shoppin-card/static/js/2.6371d4be.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/shoppin-card/static/media/logo.6ce24c58.svg"
+    "precache-manifest.4be2b04ac3a42124b12c9f181d9f2a87.js": "/shoppin-card/precache-manifest.4be2b04ac3a42124b12c9f181d9f2a87.js",
+    "service-worker.js": "/shoppin-card/service-worker.js",
+    "static/css/main.b809e878.chunk.css.map": "/shoppin-card/static/css/main.b809e878.chunk.css.map",
+    "static/js/2.ec9e2155.chunk.js.LICENSE.txt": "/shoppin-card/static/js/2.ec9e2155.chunk.js.LICENSE.txt",
+    "static/media/Home.module.css": "/shoppin-card/static/media/spiderman.b5cf6a08.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84702731.js",
-    "static/js/2.6371d4be.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c0adb08c.chunk.js"
+    "static/js/runtime-main.69122c33.js",
+    "static/js/2.ec9e2155.chunk.js",
+    "static/css/main.b809e878.chunk.css",
+    "static/js/main.8498213f.chunk.js"
   ]
 }
